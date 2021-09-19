@@ -1,5 +1,9 @@
 # VS Code Task Example 
 
-Test-Filtering-App
+Example project that shows how to use VSCode Tasks to Quickly run your tests
 
-Test-Filtering-Tests
+Test-Filtering-App [the system under test]
+
+Test-Filtering-Tests [the N Unit Tests]
+
+
